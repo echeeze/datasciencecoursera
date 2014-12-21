@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-A repository for the "Data Scientists Toolbox" classwork.
+A repository created for partial fulfillment of the "Data Scientists Toolbox" classwork.
